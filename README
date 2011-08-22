@@ -1,5 +1,9 @@
 This Rails 3.1.0.rc6 projet should help the Rubymine developers to fix guard support ASAP ;)
 
-== RUBY-8514 Support Signal Handling when running ruby scripts inside Rubymine to support Guard
+
+Check out RUBY-8514 "Support Signal Handling when running ruby scripts inside Rubymine to support Guard" ticket
+for details and a screncast!
 
 http://youtrack.jetbrains.net/issue/RUBY-8514
+
+To lauch guard from Rubymine, run run_guard.rb
